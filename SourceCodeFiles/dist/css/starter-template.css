@@ -1,0 +1,14 @@
+body {
+  padding-top: 50px;
+}
+.starter-template {
+  padding: 40px 15px;
+  text-align: center;
+}
+.error {color: #FF0000;}
+strong.blue {color: #0000FF;}
+strong.green {color: #009900;}
+strong.red {color: #FF0000;}
+strong.magent {color: #FF00FF;}
+strong.beer {color: #FBB117;}
+
